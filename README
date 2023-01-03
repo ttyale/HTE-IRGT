@@ -5,4 +5,4 @@ This folder includes five file with the following functions:
  2. simulation_functions_crt.r: Sample size procedure, data generating process and simulation code for designing heterogeneous treatment effect(HTE) based cluster randomized trials (CRTs).
  3. simulation_run_irgt.r: Sample run for the simulation of HTE-based IRGT.
  4. simulation_run_crt.r: Sample run for the simulation of HTE-based CRT.
- 5. simulation_run_irgt_pnd.r: Sample run for the simulation of HTE-based IRGT with partiall nested design.
+ 5. simulation_run_irgt_pnd.r: Sample run for the simulation of HTE-based IRGT with partially nested design.
